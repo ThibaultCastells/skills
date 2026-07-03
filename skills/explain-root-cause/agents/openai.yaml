@@ -1,0 +1,4 @@
+interface:
+  display_name: "Explain Root Cause"
+  short_description: "Trace issues to root causes and tradeoffs"
+  default_prompt: "Use $explain-root-cause to explain why this is happening, identify the root cause, and compare solution alternatives."

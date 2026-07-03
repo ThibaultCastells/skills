@@ -1,0 +1,4 @@
+interface:
+  display_name: "Investigation Mode"
+  short_description: "Investigate without changing code"
+  default_prompt: "Use $investigation-mode to investigate issues without modifying files."
