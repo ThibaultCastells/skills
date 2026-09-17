@@ -4,9 +4,10 @@ Personal agent skills compatible with the `skills` CLI.
 
 ## Available Skills
 
-- `codex-reset-expiry`
+- `explain-in-simple-words`
 - `explain-root-cause`
 - `investigation-mode`
+- `simplify-prose`
 
 ## Install
 

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Explain in Simple Words"
+  short_description: "Rewrite an explanation in plain English"
+  default_prompt: "Use $explain-in-simple-words to restate the last explanation so a non-expert can understand it."
